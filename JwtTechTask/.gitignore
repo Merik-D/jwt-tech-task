@@ -1,0 +1,30 @@
+﻿# User-specific files
+*.suo
+*.user
+*.sln.docstates
+.idea/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Rider
+*.iml
+*.ipr
+*.iws
+
+# macOS
+.DS_Store
+
+# Rider specific
+.idea/
+*.sln.DotSettings.user
+
+# Logs
+*.log
